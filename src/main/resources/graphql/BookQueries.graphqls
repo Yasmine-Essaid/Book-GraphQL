@@ -1,0 +1,3 @@
+type Query {
+    getBookBytitle(titre : String) : [BookDTO]
+}

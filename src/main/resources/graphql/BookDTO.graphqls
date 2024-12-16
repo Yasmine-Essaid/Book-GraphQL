@@ -1,0 +1,9 @@
+type BookDTO {
+title : String
+publisher : String
+datePublication : Date
+price : Float
+resume : String
+}
+
+scalar Date
